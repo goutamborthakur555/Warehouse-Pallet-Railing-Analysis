@@ -4,8 +4,7 @@
 
 **Challenges:** Collection of training dataset, annotation, latency and size of the model.
 
-**1. Warehouse Rail Analysis using YOLOv5 with PyTorch:
-For first time custom training of the model, follow the below steps.**
+**1. Warehouse Rail Analysis using YOLOv5 with PyTorch: (For first time custom training of the model, follow the below steps)**
 
 (a) Installing the dependencies and cloning yolov5 repository
 (Note: Choose GPU in Runtime in Google Colab. Steps: Runtime --> Change Runtime Type --> Hardware accelerator --> GPU --> Save)
